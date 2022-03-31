@@ -7,11 +7,11 @@
 #### (2022_02) 3D Scene of TIN Ground Model for Section of Florence, OR
 #### https://drive.google.com/file/d/1k8NPh_aMkLJGwGFSINjFE9PhwOQNnL3n/view?usp=sharing
 -----------------------------
-#### (2022_02) Historic Districts in Rhode Island
-#### https://drive.google.com/file/d/1a-nEEAvelcpzZfpSLpNNrFy7ozkv8Hat/view?usp=sharing     
------------------------------
 #### (2022_02) Viewshed looking out from Kuelap, an historic settlement & archaeological site in Peru
 #### https://drive.google.com/file/d/1PVVGLLbLGSX7jEvxpyhJS_v-UnnZhvnC/view?usp=sharing      
+-----------------------------
+#### (2022_02) Historic Districts in Rhode Island
+#### https://drive.google.com/file/d/1a-nEEAvelcpzZfpSLpNNrFy7ozkv8Hat/view?usp=sharing     
 -----------------------------
 #### (2021_12) Property Valuation in South Lake Tahoe, CA
 #### https://drive.google.com/file/d/18h6E-pW0FeC7J7Pknbrxx2qaravaRyy3/view?usp=sharing       

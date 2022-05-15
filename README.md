@@ -1,3 +1,15 @@
+#### (2022_05) Animation of Seasonal Cycling of Methane Emissions in Southwestern U.S. and Mexico
+#### https://drive.google.com/file/d/1Pn8o9M0cuH03h-CP2zPUElF9jdlbWGAF/view?usp=sharing
+-----------------------------
+#### (2022_05) Tracking Methane Leaks in the Permian Basin using Satellite Data - title slide
+#### https://drive.google.com/file/d/1T3gEQhwu3KVng6eKTammRmuWANqW8UEA/view?usp=sharing
+-----------------------------
+#### (2022_04) Residential Parcels in Census Tract 37 Owned Elswhere within Providence, RI (2021)
+#### https://drive.google.com/file/d/1BAPAEzXt8HCQpMcsqvyqTybG2RTMjhf-/view?usp=sharing
+-----------------------------
+#### (2022_04) Owner Occupancy Rates for Residential Parcels within Providence, RI (2021)
+#### https://drive.google.com/file/d/1arPaXB3t869WpVzaG5K4uGjwnBpPY6SU/view?usp=sharing
+-----------------------------
 #### (2022_03) Suitability Analysis of Bald Eagle Habitat in the San Bernardino National Forest
 #### https://drive.google.com/file/d/1zocEp6ewcM5Ls7bd0IGi-gI1FgTk8DjD/view?usp=sharing
 -----------------------------
@@ -16,7 +28,7 @@
 #### (2021_12) Property Valuation in South Lake Tahoe, CA
 #### https://drive.google.com/file/d/18h6E-pW0FeC7J7Pknbrxx2qaravaRyy3/view?usp=sharing       
 -----------------------------
-#### (2021_12 - full project poster) Property Valuation and Waterfront Proximity in South Lake Tahoe, CA
+#### (2021_12) Property Valuation and Waterfront Proximity in South Lake Tahoe, CA (project poster)
 #### https://drive.google.com/file/d/1-dItILWUjMznDs6PU_rJ-d0OmC1i1MRy/view?usp=sharing         
 -----------------------------
 #### (2021_09) Youth and Public Library Locations in Rhode Island

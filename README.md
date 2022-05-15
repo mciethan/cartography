@@ -1,4 +1,4 @@
-#### (2022_05) Animation of Seasonal Cycling of Methane Emissions in Southwestern U.S. and Mexico
+#### (2022_05) Seasonal Cycling of Methane Emissions in the Southwestern U.S. and Mexico (animation)
 #### https://drive.google.com/file/d/1Pn8o9M0cuH03h-CP2zPUElF9jdlbWGAF/view?usp=sharing
 -----------------------------
 #### (2022_05) Tracking Methane Leaks in the Permian Basin using Satellite Data - title slide
